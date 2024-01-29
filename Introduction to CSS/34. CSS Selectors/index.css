@@ -1,0 +1,25 @@
+h2{
+
+
+    color: darkorchid;
+}
+
+.zz{
+
+    color: deeppink;
+    font-size: 200px;
+}
+p[draggable="true"]{
+
+    color: rgb(230, 246, 0);
+}
+
+
+p [draggable="false"]{
+
+
+    color: orangered;
+}
+*{
+    text-align: center;
+}
